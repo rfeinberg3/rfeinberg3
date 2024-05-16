@@ -1,6 +1,8 @@
 # Ryan Feinberg - Software & AI Engineer
 
-Welcome to my GitHub portfolio! I am Software Developer with a strong foundation in AI/ML and Deep Learning. I have a passion for creative AI solutions and products. 
+
+Welcome to my GitHub portfolio! As a Software Developer with a robust foundation in AI, Machine Learning, and Deep Learning, I am passionate about crafting innovative AI solutions and products. My expertise lies in leveraging advanced technologies to develop creative and impactful applications.
+
 
 ## Overview
 
