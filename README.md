@@ -29,7 +29,7 @@ Welcome to my GitHub portfolio! I am an aspiring Machine Learning Engineer with 
   - Natural Language Processing
   - Cyber Security & Safe Infrastructures
 
-## Work Experience
+## Experience
 
 **Object Security LLC — Intern**  
 *February 2024 – Present*  
