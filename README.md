@@ -9,13 +9,7 @@ Welcome to my GitHub portfolio! I am an aspiring Machine Learning Engineer with 
 - **Machine Translation:** Created a cutting-edge translation system using transformer-based models to translate ancient Hittite into English.
 - **Model Explainability:** Conducted research to improve the interpretability and transparency of AI models.
 
-**Interests:**
-- Predictive Models
-- Generative AI
-- AI Explainability
-- Data Science
-- Cognitive Science
-- Autonomous Driving Technologies
+**Interests:** Predictive Models, Generative AI, AI Explainability, Data Science, and Cognitive Science.
 
 ## Skills
 
