@@ -50,16 +50,6 @@ Welcome to my GitHub portfolio! I am an aspiring Machine Learning Engineer with 
 - Google Colab notebook: Built a notebook that performs tokenization, fine-tunes the machine translation model, and collects metrics on the trained model's performance.
 - **GitHub Repository:** [Hittite English Translation with NLLB](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB)
 
-## Certificates & Extracurricular
-
-**CodePath University**  
-*Feb 2022 – Apr 2022 (3 months) Tampa FL*  
-*Project Highlights:*
-- Storyboarding with Swift: Mastered the art of storyboarding in Xcode, enhancing my iOS development skills.
-- Collaborative Project: Contributed to a team project developing an iOS app that filters online food recipes based on dietary preferences, leveraging online APIs.  
-*Key Takeaways:*
-- Gained hands-on experience with Swift programming language and Xcode environment.
-- Developed teamwork and collaboration skills, working with a team to deliver a functional app.
 
 ## Contact
 
