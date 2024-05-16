@@ -2,6 +2,21 @@
 
 Welcome to my GitHub portfolio! I am an aspiring Machine Learning Engineer with a strong foundation in AI/ML and deep learning.
 
+## Overview
+
+**AI Background:**
+- **AI Integration for Cybersecurity:** Developed AI solutions to enhance cybersecurity protocols at Object Security LLC.
+- **Machine Translation:** Created a cutting-edge translation system using transformer-based models to translate ancient Hittite into English.
+- **Model Explainability:** Conducted research to improve the interpretability and transparency of AI models.
+
+**Interests:**
+- Predictive Models
+- Generative AI
+- AI Explainability
+- Data Science
+- Cognitive Science
+- Autonomous Driving Technologies
+
 ## Skills
 
 - **Operating Systems:** iOS, Windows 8/10/11, macOS Sierra-Sonoma, Linux Ubuntu
