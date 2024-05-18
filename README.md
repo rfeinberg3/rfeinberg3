@@ -15,11 +15,12 @@ Welcome to my GitHub portfolio! As a Software Developer with a robust foundation
 
 ## Skills
 
-- **Operating Systems:** iOS, Windows 8/10/11, macOS Sierra-Sonoma, Linux Ubuntu
-- **Programming Languages:** Python, C, C++, C#, Swift
-- **Technologies/Platforms:** Huggingface, Keras, Pytorch, Cuda accelerators, Pandas, Datasets, Metrics, transformers, Git, Jira
-- **Techniques:** AI/ML, NLP, Computer Vision, Supervised Learning, Reinforcement Learning, Generative AI, Debugging and Visualization of Models, Parallelism/Multi-Processing, SQL, OOP
-- **Environments:** Docker, PostgreSQL, NoSQL, PyCharm, VS/VS Code, Parallels, Anaconda, Azure Cloud Computing, Google Colab
+- **Operating Systems**: IOS, Windows 8/10/11, macOS Sierra-Sonoma, Linux Ubuntu
+- **Programming**: Python, C, C++, C#, Swift, Jupyter, SQL, Git, Docker
+- **Techniques**: AI/ML, NLP, Computer-Vision, Supervised-Learning, Reinforcement Learning, Generative AI, Debugging and Visualization of Models, Parallelism/Multi-Processing, OOP, Cloud Computing, Containerization
+- **Technologies/Platforms**: Transformers, Huggingface, Keras, Pytorch, Cuda accelerators, Pandas, Datasets, Metrics, Jira, VS/VS Code, Parallels, Anaconda, Azure ML, Google Colab
+- **Additional Skills**: Agile, Scrum, DevOps, Test-Driven Development
+
 
 ## Education
 
