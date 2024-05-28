@@ -18,7 +18,6 @@ Welcome to my GitHub portfolio! As a Software Developer with a robust foundation
 - **Programming:** C/C#/C++ (proficient), CSS, HTML, Jupyter/Python (proficient), SQL (proficient), Swift
 - **Techniques:** Agile, AI/ML/DL, Cloud Computing, Computer Vision, Containerization, Data Manipulation/Visualization, Debugging and Visualization of Models, DevOps (CI/CD), Documentation, Frontend/Backend Development, Full-Stack Development, GenAI, NLP, OOP, Parallelism/Multi-Processing, RAG, Secure Coding, System Design and Architecture, Test-Driven Development
 - **Tools and Technologies:** Anaconda, Azure ML, CUDA accelerators, Datasets, Docker, Git, Google Colab, Huggingface, Keras, Linux Shell, Metrics, MySQL, NoSQL, Pandas, Pytorch, REST API, React, Transformers
-![image](https://github.com/rfeinberg3/rfeinberg3/assets/95943957/661c0d65-0716-48e2-b084-477b4c6975a9)
 
 
 
