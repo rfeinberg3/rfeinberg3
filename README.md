@@ -36,11 +36,11 @@ Welcome to my GitHub portfolio! As a Software Developer with a robust foundation
 **Object Security LLC — Intern**  
 *February 2024 – Present*  
 *AI Integration for Cybersecurity*  
-- Research and Development: Investigated AI applications in cybersecurity, exploring innovative solutions to enhance security protocols.
-- Dataset Creation and Modeling: Designed and built datasets for various tasks including Fill-in-the-Middle and Question-Answer. Implemented testing and training sequences on tokenizers and models and trained new tokenizers from scratch using PyTorch and Huggingface libraries.
-- Model Explainability Research: Conducted in-depth research on model interpretability, aiming to understand and communicate AI decision-making processes in cybersecurity contexts.
-- Test-Driven Development: Created comprehensive test cases employing test-driven software development practices to ensure robust and reliable systems.
-- Documentation and Reporting: Developed clear, concise documentation and reports, dedicating equal time to writing code and documenting progress, ensuring transparency and knowledge sharing.
+- *Research and Development:* Investigated AI applications in cybersecurity, exploring innovative solutions to enhance security protocols.
+- *Dataset Creation and Modeling:* Designed and built datasets for various tasks including Fill-in-the-Middle and Question-Answer. Implemented testing and training sequences on tokenizers and models and trained new tokenizers from scratch using PyTorch and Huggingface libraries.
+- *Model Explainability Research:* Conducted in-depth research on model interpretability, aiming to understand and communicate AI decision-making processes in cybersecurity contexts.
+- *Test-Driven Development:* Created comprehensive test cases employing test-driven software development practices to ensure robust and reliable systems.
+- *Documentation and Reporting:* Developed clear, concise documentation and reports, dedicating equal time to writing code and documenting progress, ensuring transparency and knowledge sharing.
 
 ## Key Project
 
