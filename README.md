@@ -44,7 +44,7 @@ I’m an **AI Software Developer** specializing in **NLP and ethical AI developm
 
 <img src="https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/997b9af1-5404-4371-bbdf-a6bd8e2371af" alt="Hittite Cuneiform Tablet" height=50/>
 
-**ALT** is a **Hittite to English (and vise-versa) project** built with **Meta's state-of-the-art No Language Left Behind (NLLB) machine translation model**. This project showcases my skills in **modifying existing model and tokenizer architectures to fullfill unique objectives, use data scraping and bootstrapping techniques to solve low-data MT problems, and construct relevant evaluation schemes for training validation.**. You can check out the repository [here](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB).
+**ALT** is a **Hittite to English (and vise-versa) project** built with **Meta's state-of-the-art No Language Left Behind (NLLB) machine translation model**. This project showcases my skills in **modifying existing model and tokenizer architectures to fullfill unique objectives, use data scraping and bootstrapping techniques to solve low-data MT problems, and construct relevant evaluation schemes for training validation**. You can check out the repository [here](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB).
 
 ## Get in Touch 📬
 
