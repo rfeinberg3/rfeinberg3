@@ -34,13 +34,13 @@ I’m an **AI Software Developer** specializing in **NLP and ethical AI developm
 
 ## Featured Projects 💻
 
-### [eBay Auto Seller (eAS)](https://github.com/users/rfeinberg3/eBayAutoSeller)
+### [eBay Auto Seller (eAS)](https://github.com/users/rfeinberg3/eBayAutoSeller) (Ongoing)
 
 <img src="https://github.com/rfeinberg3/rfeinberg3/assets/95943957/5f54ca70-cca7-4fcf-b2f3-21373335244e" alt="eBay Auto Seller" height=50/>
 
 **eAS** is a **tool designed to generate descriptions for items that users would like to sell or resell on eBay by simply inputing the items name.** Built with **ColBERT for Retrieval-Augmented Generation (RAG), eBay's RESTful APIs, and Docker for microservice containerization**. This project demonstrates my ability to use **cutting-edge AI techniques and tools, create powerful backends, and leverage APIs for data scraping**. You can check out the repository [here](https://github.com/rfeinberg3/eBayAutoSeller).
 
-### [Ancient Language Translation (ALT)](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB)
+### [Ancient Language Translation (ALT)](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB) (Complete)
 
 <img src="https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB/assets/95943957/997b9af1-5404-4371-bbdf-a6bd8e2371af" alt="Hittite Cuneiform Tablet" height=50/>
 
