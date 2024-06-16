@@ -34,7 +34,7 @@ I’m an **AI Software Developer** specializing in **NLP and ethical AI developm
 
 ## Featured Projects 💻
 
-### [eBay Auto Seller (eAS)](https://github.com/users/rfeinberg3/eBayAutoSeller)
+### [eBay Auto Seller (eAS)](https://github.com/rfeinberg3/eBayAutoSeller)
 
 <img src="https://github.com/rfeinberg3/rfeinberg3/assets/95943957/5f54ca70-cca7-4fcf-b2f3-21373335244e" alt="eBay Auto Seller" height=50/>
 
