@@ -8,7 +8,7 @@ I’m an **AI Software Developer** specializing in **NLP and ethical AI developm
 
 - 🌱 Currently learning: **React and Docker to develop scalable and reliable full-stack projects**
 - 🔭 Working on: **Developing Explainable AI methods and backends for common models like BERT and GoogleVIT to ensure Trustworthy AI integration @ ObjectSecurity**
-- 🌍 Languages: **Python, C, C++, C#, Java, Swift**
+- 🌍 Languages: **Python, C, C++, C#, Java, Swift, JavaScript**
 - 📫 How to reach me: **rfeinberg3@gmail.com**
 - ⚡ Fun fact: **I used to major in Mechanical Engineering 👨‍🔧 before I switched and got my B.S.C.S. @ USF**
 
