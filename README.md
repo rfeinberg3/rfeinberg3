@@ -10,7 +10,6 @@ I’m a **Software/AI Developer** interested in **NLP and ethical AI development
 - 🔭 Working on: **Developing Explainable AI methods and backends for common models like BERT and GoogleVIT to ensure Trustworthy AI integration @ ObjectSecurity**
 - 🌍 Languages: **Python, C, C++, C#, Java, Swift, JavaScript**
 - 📫 How to reach me: **rfeinberg3@gmail.com**
-- ⚡ Fun fact: **I used to major in Mechanical Engineering 👨‍🔧 before I switched and got my B.S.C.S. @ USF**
 
 ## My Skills 🧠
 
