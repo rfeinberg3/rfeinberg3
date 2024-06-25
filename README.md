@@ -9,7 +9,6 @@ I’m a **Software/AI Developer** interested in **NLP and ethical AI development
 - 🌱 Currently learning: **React and Docker to develop scalable and reliable full-stack projects**
 - 🔭 Working on: **Developing Explainable AI methods and backends for common models like BERT and GoogleVIT to ensure Trustworthy AI integration @ ObjectSecurity**
 - 🌍 Languages: **Python, C, C++, C#, Java, Swift, JavaScript**
-- 📫 How to reach me: **rfeinberg3@gmail.com**
 
 ## My Skills 🧠
 
@@ -47,3 +46,4 @@ I’m a **Software/AI Developer** interested in **NLP and ethical AI development
 ## Get in Touch 📬
 
 - [**LinkedIn**](https://www.linkedin.com/in/rfeinberg3/)
+- **rfeinberg3@gmail.com**
