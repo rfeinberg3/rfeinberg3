@@ -8,7 +8,7 @@ I’m a **Software/AI Developer** interested in **NLP and ethical AI development
 
 - 🌱 Currently learning: **React and Docker to develop scalable and reliable full-stack projects**
 - 🔭 Working on: **Developing Explainable AI methods and backends for common models like BERT and GoogleVIT to ensure Trustworthy AI integration @ ObjectSecurity**
-- 🌍 Languages: **Python, C, C++, C#, Java, Swift, JavaScript**
+- 🌍 Languages: **Python, Go, C, C++, C#, Java, Swift, JavaScript**
 
 ## My Skills 🧠
 
