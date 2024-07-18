@@ -1,4 +1,4 @@
-# Hi there, I'm Ryan Feinberg! 👋
+# Hi there, I'm Ryan! 👋
 
 <img src="https://github.com/rfeinberg3/rfeinberg3/assets/95943957/9b9d4416-627e-4c31-be35-759e9401ca66" alt="Banner Icon" height=200/>
 
