@@ -37,7 +37,7 @@ I’m a **Software/AI Developer** interested in **Full Stack applications and et
 
 ## Featured Projects 💻
 
-### [eBay Auto Seller (eAS)](https://github.com/rfeinberg3/eBayAutoSeller)
+### [ecomAssistant (eAs)](https://github.com/rfeinberg3/eBayAutoSeller)
 
 <img src="https://github.com/rfeinberg3/rfeinberg3/assets/95943957/5f54ca70-cca7-4fcf-b2f3-21373335244e" alt="eBay Auto Seller" height=50/>
 
