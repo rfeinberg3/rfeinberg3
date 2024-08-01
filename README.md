@@ -41,7 +41,7 @@ I’m a **Software/AI Developer** interested in **Full Stack applications and et
 
 <img src="https://github.com/rfeinberg3/rfeinberg3/assets/95943957/5f54ca70-cca7-4fcf-b2f3-21373335244e" alt="eBay Auto Seller" height=50/>
 
-**eAS** is a **tool designed to generate pricing and descriptions for items that users would like to sell or resell on eBay by simply inputing the items name.** Built with **ColBERT for Retrieval-Augmented Generation (RAG), eBay's RESTful APIs, and Docker for microservice containerization**. This project demonstrates my ability to use **cutting-edge AI techniques and tools, create powerful backends, and leverage APIs for data scraping**. You can check out the repository [here](https://github.com/rfeinberg3/eBayAutoSeller).
+**eAs** is a **tool designed to generate pricing and descriptions for items that users would like to sell or resell on eBay by simply inputing the items name.** Built with **ColBERT for Retrieval-Augmented Generation (RAG), eBay's RESTful APIs, and Docker for microservice containerization**. This project demonstrates my ability to use **cutting-edge AI techniques and tools, create powerful backends, and leverage APIs for data scraping**. You can check out the repository [here](https://github.com/rfeinberg3/eBayAutoSeller).
 
 ### [Ancient Language Translation (ALT)](https://github.com/rfeinberg3/Hittite_English_Translation_w-NLLB)
 
