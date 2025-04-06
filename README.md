@@ -8,7 +8,7 @@ I’m a **Software/AI Developer** interested in **Full Stack applications and et
 
 - 🌍 Languages: **Python, Go, C, C++, C#, Java, Swift, JavaScript**
 
-## My Skills 🧠
+## Top Libs 🧠
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
