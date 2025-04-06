@@ -4,10 +4,8 @@
 
 ## About Me 
 
-I’m a **Software/AI Developer** interested in **Full Stack applications and ethical AI development**. Passionate about human-centered AI, I love driving projects that improve model transparency and break creative boundaries.
+I’m a **Software/AI Developer** interested in **Full Stack applications and ethical AI development**.
 
-- 🌱 Currently learning: **React and Docker to develop scalable and reliable full-stack projects**
-- 🔭 Working on: **Developing Explainable AI (XAI) methods and Full Stack applications for inference on common models like BERT and GoogleVIT, to ensure Trustworthy AI integration @ ObjectSecurity**
 - 🌍 Languages: **Python, Go, C, C++, C#, Java, Swift, JavaScript**
 
 ## My Skills 🧠
